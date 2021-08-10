@@ -1,0 +1,67 @@
+[
+    {
+        "id": 100,
+        "title": "RRR",
+        "subtitle": "r-r-r",
+        "description": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
+        "stars":"NTR - Ramcharan - Aryia Baht",
+        "year": 2021,
+        "imageUrl": "/images/RRR.jpeg",
+        "rating": 5.0
+    },
+  
+    {
+        "id": 100,
+        "title": "Baahubali: The Beginning",
+        "subtitle": "The Beginning",
+        "description": "In ancient India, an adventurous and daring man becomes involved in a decades-old feud between two warring peoples.        ",
+        "stars":"Prabhas - Rana Daggubati - Ramya Krishnan",
+        "year": 2014,
+        "imageUrl": "/images/bahubali1.jpeg",
+        "rating": 3.5
+    },
+  
+    {
+        "id": 100,
+        "title": "Baahubali 2: The Conclusion",
+        "subtitle": "The Conclusion",
+        "description": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
+        "stars":"Prabhas - Rana Daggubati - Anushuka",
+        "year": 2017,
+        "imageUrl": "/images/bhaubali2.jpg",
+        "rating": 5.0
+    },
+  
+    {
+        "id": 100,
+        "title": "Nayakan",
+        "subtitle": "",
+        "description": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+        "stars":"Kamal Haasan - Saranya Ponvannan - Delhi Ganesh",
+        "year": 1997,
+        "imageUrl": "/images/Nayakan.jpg",
+        "rating": 2.0
+    },
+  
+    {
+        "id": 100,
+        "title": "C/o Kancharapalem",
+        "subtitle": "love",
+        "description" : "Four unconventional love stories set in the town and including the people of Kancherapalem.",
+        "stars": " Radha Bessy - Subba Rao Vepada - Praneeta Patnaik",
+        "year": 2016,
+        "imageUrl": "/images/CO Kancharapalem.jpeg",
+        "rating": 3.0
+    },
+    {
+        "id": 100,
+        "title": "Pariyerum Perumal",
+        "subtitle": "law",
+        "description" : "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+        "stars": "Kathir - Anandhi - Yogi Babu",
+        "year": 2015,
+        "imageUrl": "/images/pariyerum_Perumal.jpeg",
+        "rating": 3.0
+    }
+  
+]

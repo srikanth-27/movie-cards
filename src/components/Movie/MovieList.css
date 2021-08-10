@@ -1,0 +1,5 @@
+.card-deck {
+  display: flex;
+  grid-gap: 3%;
+  margin-top: 30px;
+}
